@@ -5,7 +5,7 @@
     new WOW().init();
 
 let valueDisplays = document.querySelectorAll(".num");
-let interval = 5000;
+let interval = 10000;
 
 valueDisplays.forEach((valueDisplays) => {
     let startValue = 0;

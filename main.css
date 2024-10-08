@@ -358,6 +358,72 @@ nav .btn-brand:hover{
     color: #f58d17;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======================milestone section================================== */
+
+
+
+
+
+#milestone {
+    background: linear-gradient(rgba(245, 141, 23, 0.9), rgba(245, 141, 23, 0.9)), url(photo/cool5.jpg);
+}
+
+
+
+
+#milestone .display-4,
+#milestone p{
+    color: #ffffff;
+}
+
+
+
+#milestone .display-4{
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media only screen and (max-width: 767px){
 
 
