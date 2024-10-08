@@ -361,6 +361,14 @@ nav .btn-brand:hover{
 @media only screen and (max-width: 767px){
 
 
+    #heroSlider .carousel-inner{
+        height: 70vh;
+    }
+
+    #heroSlider .carousel-inner .wow{
+        height: 40vh;
+    }
+
 
   header .check a{
       font-size: 9px;
