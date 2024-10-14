@@ -105,9 +105,7 @@ nav .btn-brand{
 
 nav .btn-brand:hover{
     transform: scale(1.1);
-    border-color: #d37810;
-    background-color: #d37810;
-    color: #fff;
+    box-shadow: 10px 10px 10px rgb(34, 34, 34);
 }
  
 
@@ -411,7 +409,130 @@ nav .btn-brand:hover{
 
 
 
+/* ===================run section=================  */
 
+
+
+
+.run{
+    background: #f9f9f9;
+}
+
+.run h2, h3{
+    font-family: "Raleway", sans-serif;
+    font-size: bold;
+   
+} 
+
+
+.run p{
+    font-family: "Lato", sans-serif;
+   
+}
+
+
+
+.run .card{
+    background-color: #f58d17;
+    border-color: #f58d17;
+    box-shadow: 10px 10px 10px rgb(34, 34, 34);
+    margin: 20px 10px;
+}
+
+
+
+
+.run .card-body i{
+    font-size: 50px;
+}
+
+
+.run .card-body p{
+    font-size: 0.9rem;
+    font-family: "Lato", sans-serif;
+}
+/* our service  */
+
+
+
+
+
+.run .card-body h3{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.run button{
+    font-family: "Lato", sans-serif;
+}
+
+
+.run .card:hover{
+transform: scale(1.1);
+box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ================================footrer ======================================================================  */
+
+
+
+
+
+
+
+.footer-top{
+    margin-bottom: 30px;
+}
+
+footer h3{
+    font-size: 2vmin;
+   font-weight: bold;
+   color: #f58d17;
+    font-family: "Raleway", sans-serif;
+}
+
+footer h6{
+color: #f58d17;
+}
+
+footer p{
+    font-size: 2.5vmin;
+    font-family: "Lato", sans-serif;
+}
+
+footer a{
+    color: #f9f9f9;
+    font-size: 24px;
+    font-weight: normal;
+    margin-right: 10px;
+}
+
+footer a:hover{
+    color:#f58d17;
+}
+
+
+
+
+.footer-bottom{
+    font-family: "Lato", sans-serif;
+    padding-top: 30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+
+
+/* footer ends  */
 
 
 
